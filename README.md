@@ -1,4 +1,4 @@
-# 🤔 About Me:
+## 🤔 About Me:
 My name is Wagner, I'm 23 years old.<br><br>After completing my bachelor's degree in Sports Science at FADEUP, I came to the realization that despite my passion for sports, it was not the field I desired to pursue as a full-time career. <br>Consequently, I made the decision to pursue another bachelor's degree in informatics and computing engineering at FEUP.<br><br>
 
 
