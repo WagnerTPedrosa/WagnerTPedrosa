@@ -14,6 +14,9 @@ My name is Wagner, I'm 23 years old.<br><br>After completing my bachelor's degre
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=WagnerTPedrosa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WagnerTPedrosa&theme=dark&hide_border=false)<br/>
+
+
+
+
 
 
