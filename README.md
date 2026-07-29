@@ -48,13 +48,5 @@ I'm passionate about Artificial Intelligence, Machine Learning, Backend Developm
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=WagnerTPedrosa&show_icons=true&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerTPedrosa&layout=compact&theme=dark)
-
-
-
-
 
 
