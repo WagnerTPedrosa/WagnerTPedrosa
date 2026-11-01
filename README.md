@@ -2,11 +2,13 @@
 
 Hi, I'm Wagner! 👋
 
-I'm a Software Engineer with a Bachelor's degree in Informatics and Computing Engineering and a Master's degree in Electrical and Computer Engineering from the Faculty of Engineering of the University of Porto (FEUP).
+I'm a Software Engineer with a Bachelor's degree in Informatics and Computing Engineering and a Master's degree in Electrical and Computer Engineering from the University of Porto (FEUP).
 
-My Master's thesis received a grade of **18/20** and focused on the development of **MARS**, a multi-agent framework that leverages Large Language Models to automate the reproduction of scientific papers into traceable, executable, and validated implementations.
+My work focuses on Artificial Intelligence, particularly Large Language Models (LLMs), Multi-Agent Systems, RAG, and Backend Development.
 
-I'm passionate about Artificial Intelligence, Machine Learning, Backend Development, Distributed Systems, and Software Engineering. I enjoy building scalable software, exploring AI-driven solutions, and continuously learning new technologies.
+For my Master's thesis (18/20), I developed MARS, a multi-agent LLM framework designed to automate the reproduction and validation of scientific algorithms.
+
+I'm passionate about building practical AI solutions and continuously improving my knowledge of Machine Learning and Software Engineering.
 
 ## 🚀 Interests
 
